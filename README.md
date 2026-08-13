@@ -59,7 +59,7 @@
 ## 💼 Professional Experience
 
 ### Software Engineer — Accolite, Hyderabad
-*Jul 2021 – Jun 2023*
+*Feb 2021 – Jun 2023*
 - Designed a multimodal transport integration system with Spring Boot, consolidating 3 legacy SOAP services into RESTful APIs — cut response times by **40%**
 - Refactored high-latency API logic and optimized DB queries, achieving a **30%** average and **50%** worst-case response time reduction
 - Built dynamic, reusable React.js UI components, cutting frontend dev time for new features by **25%**
