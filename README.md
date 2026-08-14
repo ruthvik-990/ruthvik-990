@@ -24,7 +24,7 @@
 - 🎓 MS in Computer Science at **University of Central Florida** (GPA **4.0/4.0**)
 - 💻 Software Engineer with experience at **Accolite** — building RESTful APIs, optimizing performance, and shipping React front ends
 - ☁️ **AWS Certified Solutions Architect – Associate**
-- 📍 Based in **Texas**
+- 📍 Based in **Irvine**
 - 🔍 Coursework: Malware & Software Vulnerability, Design & Analysis of Algorithms, Computer Vision, Machine Learning
 
 ---
